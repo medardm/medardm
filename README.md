@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [//]: # (intro)
 <header id="intro">
-  <h1>Hi 👋, I'm Medard Mandane</h1>
+  <h1>Hi 👋, I'm Medard</h1>
   <p>A well-rounded web developer with over 5 years of exposure with experience in Project Management, System Analysis, Development, Quality Assurance, and a bit of DevOps. still a noob :(</p>
   
   - 🌱 I’m currently learning **Vue.js, AWS, taking a Full Stack Dev Path, and many more**
