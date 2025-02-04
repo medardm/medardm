@@ -20,7 +20,6 @@ Here are some ideas to get you started:
   <h1>Hi 👋, I'm Medard</h1>
   <p>A well-rounded web developer with over 5 years of exposure with experience in Project Management, System Analysis, Development, Quality Assurance, and a bit of DevOps. still a noob :(</p>
   
-  - 🌱 I’m currently learning **Vue.js, AWS, taking a Full Stack Dev Path, and many more**
   - 📫 Send me an email -> **hi@medardm.dev**
   - 📄 Know about my experiences and the projects I handled, visit my portfolio -> [https://medardm.dev](https://medardm.dev/) or connect with me in [linkedin](https://linkedin.com/in/medardm)
 </header>
