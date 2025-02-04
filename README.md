@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 [//]: # (support)
 <section>
 <h3>Support:</h3>
-<p>I’m currently nurturing a growing passion for creating webkits that simplify the process of building apps for developers. I’ve developed a webkit using Next.js and Prisma, but it’s still in the early stages and there’s plenty of room for improvement.
+<p>
+No reason to buy me coffee but it's fine if you want to waste money.
 </p>
-<p>If you find my work helpful and would like to see it improve or expand, consider buying me a coffee. Your support is greatly appreciated! 😁</p>
 
 <p><a href="https://www.buymeacoffee.com/medardm"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="medardm" /></a></p><br><br>
 </section>
