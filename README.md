@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 [//]: # (stats)
 <section id="stats">
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=medardm&show_icons=true&locale=en&layout=compact" alt="medardm" /></p>-->
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=medardm&show_icons=true&locale=en&layout=compact" alt="medardm" /></p> -->
 
-<!-- <p>
+<p>
   <img src="https://komarev.com/ghpvc/?username=medardm&label=Profile%20views&color=0e75b6&style=flat" alt="medardm" /> 
-</p> -->
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=medardm&show_icons=true&locale=en" alt="medardm" /></p>
+</p>
+<!-- <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=medardm&show_icons=true&locale=en" alt="medardm" /></p> -->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=medardm&" alt="medardm" /></p>
 </section>
 
